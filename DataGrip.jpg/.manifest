@@ -1,0 +1,22 @@
+{
+  "filename": "DataGrip.jpg",
+  "original_size": 13042002,
+  "chunk_size": 10485760,
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "index": 1,
+      "path": "DataGrip.jpg/0001",
+      "blob_sha": "b23b111145947fbaa3483a915c9790d0c213b303",
+      "size": 10485760
+    },
+    {
+      "index": 2,
+      "path": "DataGrip.jpg/0002",
+      "blob_sha": "9d704ee37ee476a2f89eaf4df43e98aa5369bc46",
+      "size": 2556242
+    }
+  ],
+  "created_at": "2026-08-03T20:16:14+08:00",
+  "modified_at": "2026-08-03T20:16:14+08:00"
+}
