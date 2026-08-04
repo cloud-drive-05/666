@@ -1,0 +1,22 @@
+{
+  "filename": "11.PNG",
+  "original_size": 15309213,
+  "chunk_size": 10485760,
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "index": 1,
+      "path": "11.PNG/0001",
+      "blob_sha": "74f736140f31809b1dc4cfe5e135dec1ff57c416",
+      "size": 10485760
+    },
+    {
+      "index": 2,
+      "path": "11.PNG/0002",
+      "blob_sha": "93fd16b950caa6a62a8a28e79b3bc4bda0c1aab6",
+      "size": 4823453
+    }
+  ],
+  "created_at": "2026-08-04T21:42:07+08:00",
+  "modified_at": "2026-08-04T21:42:07+08:00"
+}
