@@ -1,0 +1,16 @@
+{
+  "filename": "k8s.png",
+  "original_size": 595290,
+  "chunk_size": 595290,
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "index": 1,
+      "path": "99/k8s.png/0001",
+      "blob_sha": "3eb03b6b27f3ad8b94fc3ad34db3ef4569cd2a0f",
+      "size": 595290
+    }
+  ],
+  "created_at": "2026-08-04T16:49:27+08:00",
+  "modified_at": "2026-08-04T16:49:27+08:00"
+}
