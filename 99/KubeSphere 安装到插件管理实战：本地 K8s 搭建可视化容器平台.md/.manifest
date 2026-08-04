@@ -1,0 +1,16 @@
+{
+  "filename": "KubeSphere 安装到插件管理实战：本地 K8s 搭建可视化容器平台.md",
+  "original_size": 13869,
+  "chunk_size": 13869,
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "index": 1,
+      "path": "99/KubeSphere 安装到插件管理实战：本地 K8s 搭建可视化容器平台.md/0001",
+      "blob_sha": "60dd49cee8b3a63d649857cd05193694b543c01b",
+      "size": 13869
+    }
+  ],
+  "created_at": "2026-08-04T16:49:10+08:00",
+  "modified_at": "2026-08-04T16:49:10+08:00"
+}
