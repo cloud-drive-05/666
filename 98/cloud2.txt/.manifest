@@ -1,0 +1,16 @@
+{
+  "filename": "cloud2.txt",
+  "original_size": 206,
+  "chunk_size": 206,
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "index": 1,
+      "path": "98/cloud2.txt/0001",
+      "blob_sha": "a39b572b8fee51f00273e547f9dcd69a7ffbdffe",
+      "size": 206
+    }
+  ],
+  "created_at": "2026-08-04T17:16:01+08:00",
+  "modified_at": "2026-08-04T17:16:01+08:00"
+}
