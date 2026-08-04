@@ -1,0 +1,16 @@
+{
+  "filename": "main.txt",
+  "original_size": 206,
+  "chunk_size": 206,
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "index": 1,
+      "path": "98/main.txt/0001",
+      "blob_sha": "fa12d9feba737757064dfe45c347711d60244c90",
+      "size": 206
+    }
+  ],
+  "created_at": "2026-08-04T17:16:08+08:00",
+  "modified_at": "2026-08-04T17:16:08+08:00"
+}
